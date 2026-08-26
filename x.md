@@ -1,7 +1,7 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00e5ff&height=220&section=header&text=Gerardo%20Valpuesta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Automation%20%26%20SaaS%20Architect&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-</p>
+<!-- HEADER BANNER (Texto en bloque de código ASCII Cyberpunk) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Gerardo+N%C3%BA%C3%B1ez+Valpuesta;Full-Stack+Engineer;AI+Automation+%26+SaaS+Architect" alt="Typing SVG" />
+</h1>
 
 <!-- BADGES DE REDES Y ESTADO -->
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="mailto:valpuestagerardo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-México%20(GMT--6)-00e5ff?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-M%C3%A9xico%20(GMT--6)-00e5ff?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
 </p>
 
 <br />
